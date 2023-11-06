@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-using-mobilefirst-workflow-lbS5u0A5_y](https://www.frontendmentor.io/solutions/product-preview-card-using-mobilefirst-workflow-lbS5u0A5_y)
-- Live Site URL: [https://yingjhen-su.github.io/frontend-mentor-product-preview-card/](https://yingjhen-su.github.io/frontend-mentor-product-preview-card/)
+- Live Site URL: [https://yingjhen-su.github.io/frontend-mentor_product-preview-card/](https://yingjhen-su.github.io/frontend-mentor_product-preview-card/)
 
 ## My process
 
